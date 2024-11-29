@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>oracle-jdk21</id>
+    <version>21.0.4</version>
+    <packageSourceUrl>https://github.com/Adrianogba/oracle-jdk21-chocolatey</packageSourceUrl>
+    <title>Oracle JDK 21</title>
+    <authors>Oracle</authors>
+    <owners>Adrianogba</owners>
+    <licenseUrl>https://www.oracle.com/downloads/licenses/no-fee-license.html</licenseUrl>
+    <projectUrl>https://www.oracle.com/java</projectUrl>
+    <docsUrl>https://docs.oracle.com/en/java/javase</docsUrl>
+    <mailingListUrl>https://www.oracle.com/java</mailingListUrl>
+    <bugTrackerUrl>https://www.oracle.com/java</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/openjdk/jdk</projectSourceUrl>
+    <tags>oracle jdk java jvm jdk21</tags>
+    <summary>Oracle JDK is a distribution of OpenJDK provided by Oracle.</summary>
+    <description>
+      Oracle JDK is a distribution of OpenJDK provided by Oracle. This package automates the download and installation of Oracle JDK 21 from Oracle's official website.
+    </description>
+  </metadata>
+</package>
